@@ -2,6 +2,8 @@
 Proyecto Java enfocado en la práctica del diseño de interfaces gráficas utilizando la biblioteca Swing dentro del entorno de desarrollo NetBeans.
 Esta aplicación no es funcional (no permite dibujar como tal), sino que ha sido diseñada con el objetivo de aprender y aplicar principios de diseño de GUI (disposición, botones, menús, paneles, etc.).
 
+Si lo deseas puedes ver el PDF explicativo con las decisiones de diseño desde este enlace: <https://github.com/AnaRoGon/UIAppDibujo/blob/master/Decisones_UIUX.pdf>
+
 # Características principales
 
 ## Pantalla principal
