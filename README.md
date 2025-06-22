@@ -21,6 +21,7 @@ Archivo (Abrir, Cerrar, Guardar, Imprimir, Salir...) - Herramientas (Pincel, Gom
 ![01](https://github.com/user-attachments/assets/3e668a91-1778-4d24-9c90-f924b76872f9)
 
 ## Barra de Herramientas
+
 Debajo del menú principal se ha incluido una barra de herramientas con iconos representativos de las funciones rápidas más relevantes para este tipo de aplicación.
 Esta barra es desacoplable, lo que permite al usuario moverla y reubicarla en otra parte de la ventana según su preferencia.
 
@@ -30,6 +31,7 @@ Esta barra es desacoplable, lo que permite al usuario moverla y reubicarla en ot
 
 Esta ventana se activa al seleccionar la opción "Imprimir" en el menú principal de la aplicación. 
 Está diseñada para simular un cuadro de diálogo de impresión típico en programas de diseño o edición de imágenes.
+
 ![03](https://github.com/user-attachments/assets/c29b6d6c-1883-4fcf-9fd3-ef5b5340d366)
 
 ## Simulación de diseño de un mensaje de error 
@@ -50,7 +52,7 @@ Para el diseño de esta interfaz se ha utilizado:
 
 # Instrucciones de uso.
 
-Para ejecutar la app copia el enlace del repositorio en GitHub: <https://github.com/AnaRoGon/ServidorSerguroJuegosArcade.git>
+Para ejecutar la app copia el enlace del repositorio en GitHub: <https://github.com/AnaRoGon/UIAppDibujo.git>
 
 1. Abre NetBeans y ve al menú:
 2. Team -> Git -> Clone.
